@@ -1,0 +1,24 @@
+tr{
+    height: 50px;
+
+}
+td{
+    width: 50px;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+table{
+    border: 30px solid brown;
+    border-spacing: 1px;
+}
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+}
+.hidden{
+    display: none;
+}
